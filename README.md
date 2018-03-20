@@ -15,8 +15,8 @@ DOWNLOAD & PLAYING INSTRUCTIONS:
 1. Download/Clone this repository and save the folder at recognised place in your system. 
    let's suppose that folder is saved in as Downloads/Gazeplayer.
 2. Launch a local Server If you have Node, simply type the following in the command line.
-    cd Downloads/Gazeplayer
-    node server.js
+    `cd Downloads/Gazeplayer
+    node server.js`
 3. click on "GAZE-PLAYER" at the top to start the process.
 4. ELse directly launch the the static html page in Gazeplayer folder and open view.html via chrome
 5. open terminal in views directory and type
