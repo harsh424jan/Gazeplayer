@@ -26,7 +26,7 @@ var options = {
 };
 res.sendFile(path+'/views/view.html');
 
-PythonShell.run('gaze_player_final1.py', options, function (err, results) {
+PythonShell.run('gaze_player_final2.py', options, function (err, results) {
     if (err) throw err;
     // results is an array consisting of messages collected during execution
     console.log('results: %j',results);
