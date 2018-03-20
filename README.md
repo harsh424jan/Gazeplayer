@@ -1,4 +1,4 @@
-GAZE PLAYER:
+GAZE PLAYER: Play videos seemlessly with eye-gaze and finger gestures.
 
 PRE-REQUISITES:
 
